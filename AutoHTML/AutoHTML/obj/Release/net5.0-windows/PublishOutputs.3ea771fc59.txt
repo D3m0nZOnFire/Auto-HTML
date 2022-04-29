@@ -1,0 +1,5 @@
+C:\Users\Ivo pereira Dantas\Desktop\AutoHTML.exe
+C:\Users\Ivo pereira Dantas\Desktop\AutoHTML.dll
+C:\Users\Ivo pereira Dantas\Desktop\AutoHTML.deps.json
+C:\Users\Ivo pereira Dantas\Desktop\AutoHTML.runtimeconfig.json
+C:\Users\Ivo pereira Dantas\Desktop\AutoHTML.pdb
