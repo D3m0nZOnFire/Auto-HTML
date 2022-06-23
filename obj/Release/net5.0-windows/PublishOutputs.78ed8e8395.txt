@@ -1,5 +1,0 @@
-C:\Users\Ivo pereira Dantas\Desktop\appli\AutoHTML.exe
-C:\Users\Ivo pereira Dantas\Desktop\appli\AutoHTML.dll
-C:\Users\Ivo pereira Dantas\Desktop\appli\AutoHTML.deps.json
-C:\Users\Ivo pereira Dantas\Desktop\appli\AutoHTML.runtimeconfig.json
-C:\Users\Ivo pereira Dantas\Desktop\appli\AutoHTML.pdb
